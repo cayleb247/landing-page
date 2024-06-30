@@ -155,3 +155,29 @@ a {
     font-size: 24px;
     font-weight: bolder;
 }
+
+.call-to-action {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    border-radius: 8px;
+    margin: 64px 120px;
+    padding: 36px;
+    justify-content: space-around;
+}
+
+.call-text-header {
+    font-size: 24px;
+    font-weight: bolder;
+
+}
+
+.call-to-action-button{
+    border-radius: 8px;
+    border-color: white;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 8px;
+    color: white;
+    padding: 8px 28px;
+}
